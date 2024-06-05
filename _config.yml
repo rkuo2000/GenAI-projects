@@ -1,7 +1,7 @@
 # Site
-name: "ChatGPT導論與實作"
+name: "ChatGPT Tutorials"
 title: "Generative AI"
-description: "tutorials, examples, exercises, etc."
+description: "introduction, examples, exercises, etc."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /chatgpt-intro-course
