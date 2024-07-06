@@ -7,7 +7,7 @@ tags: [red, yellow]
 image: assets/images/BingImageCreator.jpg
 description: "Microsoft Bing Image Creator Tutorial"
 featured: false
-hidden: true
+hidden: false
 rating: 4.5
 ---
 
@@ -24,6 +24,7 @@ Bing Image Creator 教學生成AI圖片技巧
 **圖片描述：** `pixar style, Jack Russell Terrier`<br>
 ![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/bingcreate_pixar_style_Jack_Russell_Terrier.png?raw=true)
 
+---
 ### 參考創作範例的描述
 **圖片描述：** `A neon-lit jungle with glowing flora and fauna, where the trees are circuit boards and the rivers flow with liquid light`<br>
 ![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/bingcreate_neon_lite_jungle.png?raw=true)
