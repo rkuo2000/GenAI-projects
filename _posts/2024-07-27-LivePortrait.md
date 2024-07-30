@@ -7,7 +7,7 @@ image: assets/images/liveportrait_showcase.gif?raw=true
 featured: true
 hidden: true
 ---
-LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control. 
+LivePortrait 讓靜態人物照片具有生動表情 
 
 ---
 ### [論文首頁](https://liveportrait.github.io)
@@ -19,8 +19,7 @@ Pipeline of the second stage: stitching and retargeting modules training.<br>
 ![](https://liveportrait.github.io/src/img/pipeline_second_stage.jpg)
 
 ---
-### 安裝與執行
-**[https://github.com/KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)**<br>
+### [Github](https://github.com/KwaiVGI/LivePortrait)
 1) 安裝與複製程式碼<br>
 `sudo apt install ffmpeg`<br>
 
