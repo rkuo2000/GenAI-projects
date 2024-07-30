@@ -7,20 +7,21 @@ image: assets/images/liveportrait_showcase.gif?raw=true
 featured: true
 hidden: true
 ---
-LivePotrait
+LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control. 
 
-### [LivePortrait](https://liveportrait.github.io/)
-![](https://github.com/KwaiVGI/LivePortrait/blob/main/assets/docs/showcase2.gif?raw=true)
+---
+### [論文首頁](https://liveportrait.github.io)
+**Paper:** [LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control](https://arxiv.org/pdf/2407.03168)<br>
 
 Pipeline of the first stage: base model training.<br>
 ![](https://liveportrait.github.io/src/img/pipeline_first_stage.jpg)
 Pipeline of the second stage: stitching and retargeting modules training.<br>
 ![](https://liveportrait.github.io/src/img/pipeline_second_stage.jpg)
 
-
 ---
-### [https://github.com/KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)
-1. Install
+### 安裝與執行
+**[https://github.com/KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait)**<br>
+1) 安裝與複製程式碼<br>
 `sudo apt install ffmpeg`<br>
 
 ```
@@ -35,7 +36,7 @@ conda activate LivePortrait
 pip install -r requirements.txt
 ```
 
-2. Download pretrained weights
+2) 下載預訓練模型<br>
 ```
 # first, ensure git-lfs is installed, see: https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage
 git lfs install
@@ -45,7 +46,7 @@ mv temp_pretrained_weights/* pretrained_weights/
 rm -rf temp_pretrained_weights
 ```
 
-3. Inference
+3) 執行<br>
 * source input is an image
 ```
 python inference.py -s assets/examples/source/s9.jpg -d assets/examples/driving/d0.mp4
@@ -57,7 +58,7 @@ python inference.py -s assets/examples/source/s13.mp4 -d assets/examples/driving
 ```
 
 ---
-### WebUI
+### 應用平台
 `python app.py`<br>
 ![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/liveportrait_app.png?raw=true)
 
@@ -65,7 +66,7 @@ python inference.py -s assets/examples/source/s13.mp4 -d assets/examples/driving
 ![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/liveportrait_app_webui.png?raw=true)
 
 ---
-### Demo 影片
+### 展示影片
 <iframe width="315" height="560" src="https://www.youtube.com/embed/HYllSDxbKkI" title="LivePortrait s7--d20" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/sVAxE-0tIpI" title="Hedra 深夜情歌" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
