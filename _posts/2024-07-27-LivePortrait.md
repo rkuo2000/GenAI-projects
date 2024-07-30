@@ -61,7 +61,7 @@ python inference.py -s assets/examples/source/s13.mp4 -d assets/examples/driving
 `python app.py`<br>
 ![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/liveportrait_app.png?raw=true)
 
-**http://127.0.0.1:8990**<br>
+`http://127.0.0.1:8990`<br>
 ![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/liveportrait_app_webui.png?raw=true)
 
 ---
