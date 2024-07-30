@@ -46,12 +46,12 @@ rm -rf temp_pretrained_weights
 ```
 
 3) 執行<br>
-* source input is an image
+* 輸入來源是照片（512x512 大頭照）, 驅動短片是d0.mp4 (頭像與語音）
 ```
 python inference.py -s assets/examples/source/s9.jpg -d assets/examples/driving/d0.mp4
 ```
 
-* source input is a video
+* 輸入來源是影片, 驅動短片是d0.mp4 (頭像與語音）
 ```
 python inference.py -s assets/examples/source/s13.mp4 -d assets/examples/driving/d0.mp4
 ```
