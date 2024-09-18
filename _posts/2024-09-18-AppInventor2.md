@@ -42,7 +42,7 @@ use Chrome to open [ai2.appinventor.mit.edu](https://ai2.appinventor.mit.edu/)
 
 ---
 ### Project APK
-![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_APK.png?raw=true)<br>
+![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_build.png?raw=true)<br>
 Download .apk to install on Android Phone/Tablet
 
 ---
