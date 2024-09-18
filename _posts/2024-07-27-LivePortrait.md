@@ -4,7 +4,7 @@ title:  LivePortrait
 author: rkuo
 categories: [ Jekyll, tutorial ]
 image: assets/images/liveportrait_showcase.gif?raw=true
-featured: true
+featured: false
 hidden: false
 ---
 LivePortrait 讓靜態人物照片具有生動表情 
