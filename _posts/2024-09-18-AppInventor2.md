@@ -47,5 +47,5 @@ Download .apk to install on Android Phone/Tablet
 
 ---
 ### Project running
-![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_running.png?raw=true)
+![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_running.jpg?raw=true)
 
