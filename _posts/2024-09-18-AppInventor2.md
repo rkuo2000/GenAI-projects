@@ -81,17 +81,5 @@ Download .apk to install on Android Phone/Tablet
 ![](https://github.com/rkuo2000/AI-course/blob/main/images/Reasoning_Gemini_App.jpg?raw=true)
 
 ---
-### [Chain-of-Thought Prompting](https://www.promptingguide.ai/techniques/cot)
-![](https://ar5iv.labs.arxiv.org/html/2201.11903/assets/x1.png)
-
----
-### [ReAct Prompting](https://react-lm.github.io/)
-![](https://react-lm.github.io/files/diagram.png)
-
-－－
-### Automatic Chain-of-Thought (Auto-CoT)
-![](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fauto-cot.642d9bad.png&w=1200&q=75)
-
----
 ### [Chain of thought and ReAct — SQL Agent](https://abvijaykumar.medium.com/prompt-engineering-chain-of-thought-and-react-sql-agent-85fa42575c06)
 
