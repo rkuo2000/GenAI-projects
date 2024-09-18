@@ -38,11 +38,11 @@ use Chrome to open [ai2.appinventor.mit.edu](https://ai2.appinventor.mit.edu/)
 
 ---
 ### Project Build
-![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_Blocks_.png?raw=true)<br>
+![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_build_apk_.png?raw=true)<br>
 
 ---
 ### Project APK
-![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_build.png?raw=true)<br>
+![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_APK_QR.png?raw=true)<br>
 Download .apk to install on Android Phone/Tablet
 
 ---
