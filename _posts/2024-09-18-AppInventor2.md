@@ -5,10 +5,10 @@ author: rkuo
 categories: [ Jekyll, tutorial ]
 image: assets/images/ai2-with-mitai.png?raw=true
 featured: false
-hidden: false
+hidden: true
 ---
 
-AppInventor2 手機App開發環境
+AppInventor2 手機App & 開發環境
 
 ---
 ## [ai2.appinventor.mit.edu](https://ai2.appinventor.mit.edu/)
