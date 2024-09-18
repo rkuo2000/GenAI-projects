@@ -30,11 +30,11 @@ use Chrome to open [ai2.appinventor.mit.edu](https://ai2.appinventor.mit.edu/)
 * Import Gemini_Speak.aia<br>
 
 ---
-### Project Designers
+### Project Designer
 ![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak.png?raw=true)<br>
 
 ---
-### Project Blocks
+### Project Blocks (coding)
 ![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_Blocks_starting.png?raw=true)<br>
 
 1. Go to https://aistudio.google.com/app/apikey
