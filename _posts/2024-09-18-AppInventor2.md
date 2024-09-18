@@ -54,3 +54,8 @@ Download .apk to install on Android Phone/Tablet
 ### App running
 ![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_running.jpg?raw=true)
 
+---
+### Follow-up
+* Chain-of-Thoghts for Reasoning
+* Integration with smartphone features, such as Google Maps, Pedometer, IMU, GPS, Camera, ...
+
