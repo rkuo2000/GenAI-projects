@@ -5,7 +5,7 @@ author: rkuo
 categories: [ Jekyll, tutorial ]
 image: assets/images/ai2-with-mitai.png?raw=true
 featured: true
-hidden: false
+hidden: true
 ---
 
 AppInventor2 手機App & 開發環境
