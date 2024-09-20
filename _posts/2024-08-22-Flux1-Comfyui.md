@@ -4,7 +4,7 @@ title:  Flux1
 author: rkuo
 categories: [ Jekyll, tutorial ]
 image: assets/images/flux1.jpg?raw=true
-featured: true
+featured: false
 hidden: true
 ---
 Flux.1 最強文生圖大模型, Comfyui本地安裝 
