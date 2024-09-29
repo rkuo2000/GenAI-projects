@@ -50,12 +50,15 @@ App版面佈局<br>
 3. 複製轉貼至global API_Key變數
 
 ---
+### Project Properies
+![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Talk_project_properties.png?raw=true)
+
 ### Project Build
-![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_build_apk.png?raw=true)<br>
+![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Talk_build_apk.png?raw=true)<br>
 
 ---
 ### generated APK
-![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_APK_QR.png?raw=true)<br>
+![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Talk_APK_QR.png?raw=true)<br>
 Download .apk to install on Android Phone/Tablet
 
 ---
