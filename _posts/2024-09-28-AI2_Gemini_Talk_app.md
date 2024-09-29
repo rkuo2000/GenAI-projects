@@ -37,13 +37,13 @@ use Chrome to open [ai2.appinventor.mit.edu](https://ai2.appinventor.mit.edu/)<b
 ### Project Designer
 App版面佈局<br>
 
-![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak.png?raw=true)<br>
+![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Talk_designer.png?raw=true)<br>
 
 ---
 ### Project Blocks 
 拼圖式程式設計<br>
 
-![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Speak_Blocks_starting.png?raw=true)<br>
+![](https://github.com/rkuo2000/GenAI-projects/blob/master/assets/images/ai2_Gemini_Talk_blocks.png?raw=true)<br>
 
 1. 至 https://aistudio.google.com/app/apikey
 2. 產生金鑰 (Create API Key)
