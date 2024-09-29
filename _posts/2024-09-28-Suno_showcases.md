@@ -3,7 +3,7 @@ layout: post
 title:  Suno showcases
 author: rkuo
 categories: [ Jekyll, tutorial ]
-image: assets/images/ai2-with-mitai.png?raw=true
+image: assets/images/Suno_showcases.png?raw=true
 featured: true
 hidden: true
 ---
