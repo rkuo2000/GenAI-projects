@@ -4,8 +4,8 @@ title:  AppInventor2
 author: rkuo
 categories: [ Jekyll, tutorial ]
 image: assets/images/ai2-with-mitai.png?raw=true
-featured: true
-hidden: true
+featured: false
+hidden: false
 ---
 
 MIT App Inventor之使用介紹與應用範例
